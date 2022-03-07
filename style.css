@@ -1,0 +1,11 @@
+.title,
+.recipe  {
+    text-align: center;
+}
+ .pic {
+     text-align: center;
+ }
+.image {
+    height: auto;
+    width: 200px;
+}
